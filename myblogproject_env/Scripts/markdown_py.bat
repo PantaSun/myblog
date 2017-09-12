@@ -1,0 +1,1 @@
+@"d:\wamp64\www\myblogproject_env\scripts\python.exe" "d:\wamp64\www\myblogproject_env\Scripts\markdown_py" %*
